@@ -704,7 +704,6 @@ export class OrderService {
 - Depend on interfaces, not implementations
 - Register dependencies in DI container
 ```
-
 **Framework-specific Rules:**
 ```
 ### EXPRESS.JS RULES
@@ -724,7 +723,7 @@ export class OrderService {
 - Integration tests for infrastructure
 - Mock external dependencies
 - Test business logic thoroughly
-```
+
 
 ### **Bài 6.3: Windsurf Memory Bank**
 
