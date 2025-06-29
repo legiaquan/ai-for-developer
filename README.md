@@ -1475,34 +1475,34 @@ Sources:
 - [7] Các Kỹ Thuật Tạo Prompt Đỉnh Cao Giúp Làm Chủ AI - Uplift https://uplift.vn/cac-ky-thuat-tao-prompt-dinh-cao-giup-lam-chu-ai-huong-dan-chi-tiet-vi-du-thuc-te
 - [8] LM Studio: Công cụ chạy LLM Local Nhanh chóng Dễ dàng cho ... https://200lab.io/blog/lm-studio-la-gi/
 [9] Cursor vs Windsurf: So sánh và phối hợp cả hai cho việc phát triển ... https://200lab.io/blog/cursor-vs-windsurf-so-sanh-va-phoi-hop
-[10] Cursor vs Windsurf vs Cline: Which AI Dev Tool Is Right for You? https://uibakery.io/blog/cursor-vs-windsurf-vs-cline
-[11] Hexagonal Architecture là gì và ứng dụng của nó - AI Design https://aithietke.com/hexagonal-architecture-la-gi-va-ung-dung-cua-no/
-[12] Model Context Protocol - Wikipedia https://en.wikipedia.org/wiki/Model_Context_Protocol
-[13] Introducing the Model Context Protocol - Anthropic https://www.anthropic.com/news/model-context-protocol
-[14] Model Context Protocol (MCP) Tutorial: Build Your First MCP Server ... https://towardsdatascience.com/model-context-protocol-mcp-tutorial-build-your-first-mcp-server-in-6-steps/
-[15] bernaferrari/FigmaToCode: Generate responsive pages ... - GitHub https://github.com/bernaferrari/FigmaToCode
-[16] FreePeak/db-mcp-server: A powerful multi-database server ... - GitHub https://github.com/FreePeak/db-mcp-server
-[17] Can I connect Model Context Protocol (MCP) servers to databases ... https://milvus.io/ai-quick-reference/can-i-connect-model-context-protocol-mcp-servers-to-databases-or-file-systems
-[18] Task Master: AI-Powered Task Management for Developers https://mcpmarket.com/server/task-master
-[19] GitHub - eyaltoledano/claude-task-master https://github.com/eyaltoledano/claude-task-master
-[20] LM Studio: Cách Dễ Dàng và Tốt Nhất để Chạy LLMs Cục Bộ https://www.toolify.ai/vi/ai-news-vn/lm-studio-cch-d-dng-v-tt-nht-chy-llms-cc-b-3092744
-[21] Sức mạnh đặc biệt của tokenizer nhanh - Hugging Face LLM Course https://huggingface.co/learn/llm-course/vi/chapter6/3
-[22] 5 Best AI Tools for Developers 2025 - Strapi https://strapi.io/blog/top-ai-tools-for-developers
-[23] Prompt Engineering là gì? Lợi ích của việc áp dụng ... - FPT Shop https://fptshop.com.vn/tin-tuc/danh-gia/prompt-engineering-la-gi-185725
-[24] AI Code Tools: The Ultimate Guide in 2025 - CodeSubmit https://codesubmit.io/blog/ai-code-tools/
-[25] 10 Best AI Tools for Coding in 2025 | Milestone https://mstone.ai/blog/best-ai-tools-coding/
-[26] Hexagonal Architecture là gì và ứng dụng của nó - Viblo https://viblo.asia/p/hexagonal-architecture-la-gi-va-ung-dung-cua-no-4dbZNR88ZYM
-[27] Kiến trúc Hexagonal trong DDD - VN GEEKS https://vngeeks.com/kien-truc-hexagonal-trong-ddd/
-[28] Optimization - Tối ưu hóa hiệu năng trong lập trình Vi điều khiển https://tapit.vn/optimization-toi-uu-hoa-hieu-nang-trong-lap-trinh-vi-dieu-khien/
-[29] Model Optimization là gì? Tìm hiểu về tối ưu hóa mô hình, các kỹ ... https://statio.vn/blog/model-optimization-la-gi-tim-hieu-ve-toi-uu-hoa-mo-hinh-cac-ky-thuat-pho-bien-va-loi-ich-cho-hieu-suat-ai
-[30] AI-Powered Figma to Code - Builder.io https://www.builder.io/figma-to-code
-[31] Optimization là gì? Các nghiên cứu khoa học về Optimization https://scholarhub.vn/topic/optimization
-[32] Builder.io - AI-Powered Figma to Code (React, Vue, Tailwind, & more) https://www.figma.com/community/plugin/747985167520967365/builder-io-ai-powered-figma-to-code-react-vue-tailwind-more
-[33] LM Studio Là Gì? Hướng Dẫn Cài Đặt và Sử Dụng Mô Hình Ngôn ... https://thuegpu.vn/lm-studio-la-gi-huong-dan-cai-dat-va-su-dung-llm/
-[34] Large language model là gì? Tất cả những điều bạn cần biết về mô ... https://vinbigdata.com/kham-pha/large-language-model-la-gi-tat-ca-nhung-dieu-ban-can-biet-ve-mo-hinh-ngon-ngu-nay.html
-[35] IDE AI nào tốt nhất? Windsurf vs Cursor vs Cline vs GitHub Copilot https://apidog.com/vi/blog/windsurf-cursor-cline-github-copilot-vi/
-[36] Cursor, Windsurf hay Cline – Cái nào ngon nhất hiện giờ nhỉ? - Reddit https://www.reddit.com/r/ChatGPTCoding/comments/1hhh1tc/cursor_vs_windsurf_vs_cline_whats_the_best_at_the/?tl=vi
-[37] Build ANYTHING With TaskMaster + Context7 + Claude ... - YouTube https://www.youtube.com/watch?v=Ox-8X9vowEc
-[38] Ports & Adapters Architecture - Craftsmanship - WordPress.com https://edwardthienhoang.wordpress.com/2018/01/18/ports-adapters-architecture/
-[39] Unified Model Context Protocol (MCP) Server for Databases https://mindsdb.com/unified-model-context-protocol-mcp-server-for-databases
-[40] Tối ưu hoá là gì? Các nghiên cứu khoa học về Tối ưu hoá https://scholarhub.vn/topic/t%E1%BB%91i%20%C6%B0u%20ho%C3%A1
+- [10] Cursor vs Windsurf vs Cline: Which AI Dev Tool Is Right for You? https://uibakery.io/blog/cursor-vs-windsurf-vs-cline
+- [11] Hexagonal Architecture là gì và ứng dụng của nó - AI Design https://aithietke.com/hexagonal-architecture-la-gi-va-ung-dung-cua-no/
+- [12] Model Context Protocol - Wikipedia https://en.wikipedia.org/wiki/Model_Context_Protocol
+- [13] Introducing the Model Context Protocol - Anthropic https://www.anthropic.com/news/model-context-protocol
+- [14] Model Context Protocol (MCP) Tutorial: Build Your First MCP Server ... https://towardsdatascience.com/model-context-protocol-mcp-tutorial-build-your-first-mcp-server-in-6-steps/
+- [15] bernaferrari/FigmaToCode: Generate responsive pages ... - GitHub https://github.com/bernaferrari/FigmaToCode
+- [16] FreePeak/db-mcp-server: A powerful multi-database server ... - GitHub https://github.com/FreePeak/db-mcp-server
+- [17] Can I connect Model Context Protocol (MCP) servers to databases ... https://milvus.io/ai-quick-reference/can-i-connect-model-context-protocol-mcp-servers-to-databases-or-file-systems
+- [18] Task Master: AI-Powered Task Management for Developers https://mcpmarket.com/server/task-master
+- [19] GitHub - eyaltoledano/claude-task-master https://github.com/eyaltoledano/claude-task-master
+- [20] LM Studio: Cách Dễ Dàng và Tốt Nhất để Chạy LLMs Cục Bộ https://www.toolify.ai/vi/ai-news-vn/lm-studio-cch-d-dng-v-tt-nht-chy-llms-cc-b-3092744
+- [21] Sức mạnh đặc biệt của tokenizer nhanh - Hugging Face LLM Course https://huggingface.co/learn/llm-course/vi/chapter6/3
+- [22] 5 Best AI Tools for Developers 2025 - Strapi https://strapi.io/blog/top-ai-tools-for-developers
+- [23] Prompt Engineering là gì? Lợi ích của việc áp dụng ... - FPT Shop https://fptshop.com.vn/tin-tuc/danh-gia/prompt-engineering-la-gi-185725
+- [24] AI Code Tools: The Ultimate Guide in 2025 - CodeSubmit https://codesubmit.io/blog/ai-code-tools/
+- [25] 10 Best AI Tools for Coding in 2025 | Milestone https://mstone.ai/blog/best-ai-tools-coding/
+- [26] Hexagonal Architecture là gì và ứng dụng của nó - Viblo https://viblo.asia/p/hexagonal-architecture-la-gi-va-ung-dung-cua-no-4dbZNR88ZYM
+- [27] Kiến trúc Hexagonal trong DDD - VN GEEKS https://vngeeks.com/kien-truc-hexagonal-trong-ddd/
+- [28] Optimization - Tối ưu hóa hiệu năng trong lập trình Vi điều khiển https://tapit.vn/optimization-toi-uu-hoa-hieu-nang-trong-lap-trinh-vi-dieu-khien/
+- [29] Model Optimization là gì? Tìm hiểu về tối ưu hóa mô hình, các kỹ ... https://statio.vn/blog/model-optimization-la-gi-tim-hieu-ve-toi-uu-hoa-mo-hinh-cac-ky-thuat-pho-bien-va-loi-ich-cho-hieu-suat-ai
+- [30] AI-Powered Figma to Code - Builder.io https://www.builder.io/figma-to-code
+- [31] Optimization là gì? Các nghiên cứu khoa học về Optimization https://scholarhub.vn/topic/optimization
+- [32] Builder.io - AI-Powered Figma to Code (React, Vue, Tailwind, & more) https://www.figma.com/community/plugin/747985167520967365/builder-io-ai-powered-figma-to-code-react-vue-tailwind-more
+- [33] LM Studio Là Gì? Hướng Dẫn Cài Đặt và Sử Dụng Mô Hình Ngôn ... https://thuegpu.vn/lm-studio-la-gi-huong-dan-cai-dat-va-su-dung-llm/
+- [34] Large language model là gì? Tất cả những điều bạn cần biết về mô ... https://vinbigdata.com/kham-pha/large-language-model-la-gi-tat-ca-nhung-dieu-ban-can-biet-ve-mo-hinh-ngon-ngu-nay.html
+- [35] IDE AI nào tốt nhất? Windsurf vs Cursor vs Cline vs GitHub Copilot https://apidog.com/vi/blog/windsurf-cursor-cline-github-copilot-vi/
+- [36] Cursor, Windsurf hay Cline – Cái nào ngon nhất hiện giờ nhỉ? - Reddit https://www.reddit.com/r/ChatGPTCoding/comments/1hhh1tc/cursor_vs_windsurf_vs_cline_whats_the_best_at_the/?tl=vi
+- [37] Build ANYTHING With TaskMaster + Context7 + Claude ... - YouTube https://www.youtube.com/watch?v=Ox-8X9vowEc
+- [38] Ports & Adapters Architecture - Craftsmanship - WordPress.com https://edwardthienhoang.wordpress.com/2018/01/18/ports-adapters-architecture/
+- [39] Unified Model Context Protocol (MCP) Server for Databases https://mindsdb.com/unified-model-context-protocol-mcp-server-for-databases
+- [40] Tối ưu hoá là gì? Các nghiên cứu khoa học về Tối ưu hoá https://scholarhub.vn/topic/t%E1%BB%91i%20%C6%B0u%20ho%C3%A1
