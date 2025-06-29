@@ -665,7 +665,7 @@ Cursor Rules là cách để hướng dẫn AI về coding style, patterns, và 
 ### **Bài 6.2: Thiết lập Rules cho Hexagonal Architecture**
 
 **Base Rules:**
-```
+
 # .cursor-rules
 
 ## HEXAGONAL ARCHITECTURE RULES
