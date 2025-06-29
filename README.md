@@ -664,6 +664,7 @@ Cursor Rules là cách để hướng dẫn AI về coding style, patterns, và 
 
 ### **Bài 6.2: Thiết lập Rules cho Hexagonal Architecture**
 
+```
 **Base Rules:**
 
 # .cursor-rules
@@ -676,6 +677,7 @@ Cursor Rules là cách để hướng dẫn AI về coding style, patterns, và 
 - Models are immutable value objects
 - Services contain business rules only
 - Repository interfaces, no implementations
+```
 
 Example domain service:
 ```
